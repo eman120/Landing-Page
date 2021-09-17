@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/76956637/133851127-010f69eb-9588-431d-
 - [Demo-Preview](#demo-preview)
 - [Table of contents](##table-of-contents)
 - [Description](##Description)
-- [To view project](###To view project)
+- [To view project](###To-view-project)
 
 ## Description
 This is a basic landing page that uses Javascript to create a NavBar dynamically and to highlight sections when scrolled. The project uses HTML, CSS, and Javascript.
