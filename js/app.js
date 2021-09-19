@@ -42,7 +42,7 @@ function createListItems(){
 }
 
 function sectionView (elemen){
-    let sectionPosition =elemen.getBouningClientRect();
+    let sectionPosition =elemen.getBoundingClientRect();
     return(sectionPosition.top >= 0);
 }
 
